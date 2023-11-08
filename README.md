@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Diego 🖐️
 ![Logo IFRS](https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-sem-fundo-Horizontal.png)
 **Sou aluno do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul!**
-**Estou cursando o primeiro ano do curso técnico Integrado ao Ensino médio de Informática**
+**Estou cursando o primeiro ano do curso técnico Integrado ao Ensino médio de Informática.**
 
 ## Estatisticas:
 ![Estatistica](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOliv07&theme=blue-green)
