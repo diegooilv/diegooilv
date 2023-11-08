@@ -3,7 +3,7 @@
 **Sou aluno do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul!**
 **Estou cursando o primeiro ano do curso técnico Integrado ao Ensino médio de Informática**
 
-## Estatistica:
+## Estatisticas:
 ![Estatistica](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOliv07&theme=blue-green)
 
 ## Tecnologias do meu dia a dia:
