@@ -1,5 +1,6 @@
-## Olá! Eu sou o Diego 🖐️
-![Logo IFRS](https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-sem-fundo-Horizontal.png)
+<h1>Olá! Eu sou o Diego 🖐️</h1>
+<img src="https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-sem-fundo-Horizontal.png" height=150px>
+
 **Sou aluno do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul!**
 
 ## Estatisticas:
