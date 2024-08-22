@@ -11,7 +11,7 @@
 
 ## 📊 Minhas Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOliv07&layout=compact&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOilv&layout=compact&theme=blue-green">
 </p>
 
 ## 📫 Entre em Contato Comigo
