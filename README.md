@@ -65,9 +65,9 @@
 
 | Projeto                                                   | Descrição                                                     | Tecnologias                                  |
 |:---------------------------------------------------------:|:-------------------------------------------------------------:|:---------------------------------------------:|
-| [<img src="https://img.icons8.com/ios-filled/16/4A90E2/school.png"/> IFRS 2023](https://github.com/DiegoOilv/ifrs-2023)     | 1º ano no IFRS                    | Python                                        |
-| [<img src="https://img.icons8.com/ios-filled/16/4A90E2/school.png"/> IFRS 2024](https://github.com/DiegoOilv/ifrs-2024)     | 2º ano no IFRS                          | Java                                          |
-| [<img src="https://img.icons8.com/ios-filled/16/4A90E2/school.png"/> IFRS 2025](https://github.com/DiegoOilv/ifrs-2025)     | 3º ano no IFRS            | HTML · CSS · JavaScript · Java · SQLite       |
+| [<img src="https://img.icons8.com/ios-filled/16/4A90E2/school.png"/> IFRS 2023](https://github.com/diegooilv/ifrs2023)     | 1º ano no IFRS                    | Python                                        |
+| [<img src="https://img.icons8.com/ios-filled/16/4A90E2/school.png"/> IFRS 2024](https://github.com/diegooilv/ifrs2024)     | 2º ano no IFRS                          | Java                                          |
+| [<img src="https://img.icons8.com/ios-filled/16/4A90E2/school.png"/> IFRS 2025](https://github.com/diegooilv/ifrs2025)     | 3º ano no IFRS            | HTML · CSS · JavaScript · Java · SQLite       |
 | [<img src="https://img.icons8.com/ios-filled/16/4A90E2/book.png"/> Bases Numéricas](https://basesnumericas.pages.dev)     | Projeto integrador sobre conversão e cálculo de bases numéricas | HTML5 · CSS3 · JavaScript                     |
 
 ---
