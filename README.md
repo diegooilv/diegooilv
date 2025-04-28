@@ -1,12 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
-<p align="center" style="color: #ff0000; font-size: 35px; font-weight: bold;">
-  Prazer, sou o Diego!
-</p>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Fullstack+em+constante+evolução!;Estou+em+constante+aprendizado+e+crescimento!;Seja+Bem-vindo+ao+meu+GitHub!;Estudante+no+IFRS" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=ff2400&size=35&center=true&vCenter=true&width=1000&lines=Prazer+em+te+conhecer,+sou+o+Diego!;Apaixonado+por+tecnologia;e+desenvolvimento+Full+Stack!;Em+constante+aprendizado+e+evolução+🚀;Estudante+de+Informática+no+IFRS;Compartilhando+projetos+e+experiências+aqui;Sinta-se+à+vontade+para+explorar!;Conecte-se+comigo+e+codemos+juntos!+💻"
+    alt="Typing SVG" />
 </div>
+
 
 <br>
 
