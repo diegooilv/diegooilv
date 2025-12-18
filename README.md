@@ -1,103 +1,78 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EE6B8&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0EE6B8&size=32&center=true&vCenter=true&width=1000&lines=Prazer+em+te+conhecer,+sou+o+Diego!;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+backend;Estudante+de+Informática+no+IFRS;Sempre+aprendendo+e+construindo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EE6B8&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+I'm+Diego!;Full+Stack+Developer+in+training;IT+Student+at+IFRS;Building+the+future+with+code+🚀" />
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 👨‍💻 About Me
 
-<div align="center">
+I am a technology enthusiast focused on transforming complex ideas into functional solutions through software development. Currently, I am expanding my expertise into infrastructure, backend architecture, and digital security.
 
-🎓 **Estudante de Informática no IFRS**  
-💻 Desenvolvedor **Full Stack em formação**, com foco em **Web, APIs e automações**  
-🚀 Curioso por arquitetura, backend e projetos com impacto real  
-🤝 Aberto a colaboração, networking e novos desafios  
-
-</div>
+- 🎓 **Education:** IT Technician Student at IFRS
+- 🎯 **Current Focus:** Scalable APIs and Computer Security
+- 🌱 **Learning:** Google Cybersecurity Professional Certificate
+- 💬 **Networking:** Passionate about backend discussions and innovative challenges
 
 ---
 
-## 📊 GitHub em Destaque
+## 📊 Stats & Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diegooilv&show_icons=true&count_private=true&hide_border=true&title_color=0EE6B8&icon_color=0EE6B8&text_color=E2E8F0&bg_color=1A202C"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooilv&layout=compact&hide_border=true&title_color=0EE6B8&text_color=0EE6B8&bg_color=1A202C"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegooilv&show_icons=true&count_private=true&hide_border=true&title_color=0EE6B8&icon_color=0EE6B8&text_color=E2E8F0&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooilv&layout=compact&hide_border=true&title_color=0EE6B8&text_color=E2E8F0&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoOilv&hide_border=true&background=1A202C&stroke=0EE6B8&ring=0EE6B8&fire=0EE6B8&currStreakNum=0EE6B8"/>
+  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoOilv&hide_border=true&background=0d1117&stroke=0EE6B8&ring=0EE6B8&fire=0EE6B8&currStreakNum=0EE6B8&sideLabels=E2E8F0"/>
 </div>
 
-### 
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/diegooilv/diegooilv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/diegooilv/diegooilv/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/diegooilv/diegooilv/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegooilv/diegooilv/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegooilv/diegooilv/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/diegooilv/diegooilv/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Toolbox
 
-### 🧠 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🧩 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Bancos de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| Category         | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**    | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frontend**     | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)                                                                                                   |
+| **Backend**      | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)                                                                                                                                                                                             |
+| **IDEs**         | ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0EE6B8?style=flat-square&logo=intellij-idea&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-0EE6B8?style=flat-square&logo=phpstorm&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-0EE6B8?style=flat-square&logo=pycharm&logoColor=white)                                                                                                                                                                            |
+| **DevOps/Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)                                                                                                                                                                                                  |
 
 ---
 
-## 🧰 Ferramentas & Plataformas
+## 📫 Connect with Me
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📫 Onde me encontrar
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/diegooilv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/DiegoOilv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1A202C?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://judge.beecrowd.com/en/profile/825680" target="_blank">
+    <img src="https://img.shields.io/badge/Beecrowd-F0B429?style=for-the-badge&logo=codeforces&logoColor=white" alt="Beecrowd"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
----
+<br>
 
 <p align="center">
-  <em>"A tecnologia move o mundo, mas é a curiosidade que nos faz evoluir."</em> 🚀
+  <em>"Technology moves the world, but curiosity drives evolution."</em>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0EE6B8&height=120&section=footer"/>
