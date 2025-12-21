@@ -64,9 +64,6 @@ I am a technology enthusiast focused on transforming complex ideas into function
   <a href="https://judge.beecrowd.com/en/profile/825680" target="_blank">
     <img src="https://img.shields.io/badge/Beecrowd-F0B429?style=for-the-badge&logo=codeforces&logoColor=white" alt="Beecrowd"/>
   </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 <br>
